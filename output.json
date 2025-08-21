@@ -1,0 +1,755 @@
+[
+  {
+    "personal_information": {
+      "name": "Abhinand Chandran",
+      "email": "abhinand.abhi10@gmail.com",
+      "phone": "+91-9747889874",
+      "address": "BTM Layout phase 2, Bangalore",
+      "other_details": "http://www.linkedin.com/in/abhinand-chandran-788426b7"
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor of Science, Computer Science",
+        "institution": "University of Calicut",
+        "start_date": "2016",
+        "end_date": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Big Data Professional",
+        "company_name": "Infosys Limited",
+        "job_location": "",
+        "start_date": "Jan 2020",
+        "end_date": "Jan 2024"
+      },
+      {
+        "job_title": "Associate Analyst",
+        "company_name": "Cognizant Technology Solutions",
+        "job_location": "",
+        "start_date": "Jan 2024",
+        "end_date": "present"
+      }
+    ],
+    "total_years_experience": "5.6",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "SQL",
+        "Shell"
+      ],
+      "bi_tools": [],
+      "version_control_systems": [
+        "Bitbucket",
+        "SVN"
+      ],
+      "testing_and_automation": [],
+      "cloud": [],
+      "frameworks_libraries": [
+        "Hadoop",
+        "Hive",
+        "Spark",
+        "PySpark",
+        "HBase",
+        "MapReduce",
+        "Oozie",
+        "Sqoop"
+      ],
+      "databases": [
+        "MySQL",
+        "HBase",
+        "Hive"
+      ],
+      "secondary_skills": [
+        "Jira",
+        "IntelliJ"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Aditi Balande",
+      "email": "aditibalande0125@gmail.com",
+      "phone": "9420016479",
+      "address": "Gut No. 167/2, Ro-house No. C-9, Guruchar an Heritage, Harsul, Aurangabad",
+      "other_details": "LinkedIn: https://www.linkedin.com/in/aditi-balande-54b1aa2b0; Date of Birth: January 25, 1998; Languages: English, Hindi, Marathi; Marital Status: Married"
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor Of Engineering",
+        "institution": "Marathwada Institute of Technology Aurangabad",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "ARIA AEROTECH PVT LTD",
+        "job_location": "Mumbai",
+        "start_date": "July 2021",
+        "end_date": "Present"
+      }
+    ],
+    "total_years_experience": "4.1",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "SQL",
+        "PySpark"
+      ],
+      "bi_tools": [
+        "Azure Data Factory",
+        "Azure Data Lake",
+        "Azure Databricks",
+        "Azure Synapse",
+        "Snowflake"
+      ],
+      "version_control_systems": [],
+      "testing_and_automation": [],
+      "cloud": [
+        "Microsoft Azure",
+        "Snowflake"
+      ],
+      "frameworks_libraries": [],
+      "databases": [
+        "Snowflake"
+      ],
+      "secondary_skills": [
+        "Logic App"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Aditya Abhijit Pradhan",
+      "email": "adityapradhan5067@gmail.com",
+      "phone": "+91-7809357729",
+      "address": "",
+      "other_details": "Gender: Male; Marital Status: Single; Native: Odisha"
+    },
+    "education": [
+      {
+        "degree_and_field": "B.Tech in Computer Science",
+        "institution": "Biju Patnaik University of Technology, Odisha",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Unity Small Finance Bank",
+        "job_location": "",
+        "start_date": "April 2024",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Software Developer",
+        "company_name": "TATA Consultancy Services (TCS) – under Payroll of Teamlease digital PVT LTD.",
+        "job_location": "",
+        "start_date": "September 2022",
+        "end_date": "March 2024"
+      },
+      {
+        "job_title": "Software Developer",
+        "company_name": "L&T Technology Services Limited (LTTS)",
+        "job_location": "",
+        "start_date": "August 2021",
+        "end_date": "July 2022"
+      }
+    ],
+    "total_years_experience": "3.75",
+    "skills": {
+      "programming_languages": [
+        "PySpark",
+        "SQL",
+        "Java",
+        "Spark",
+        "Python"
+      ],
+      "bi_tools": [],
+      "version_control_systems": [
+        "GitHub",
+        "Git"
+      ],
+      "testing_and_automation": [
+        "Unit Testing",
+        "CI/CD"
+      ],
+      "cloud": [
+        "Microsoft Azure"
+      ],
+      "frameworks_libraries": [
+        "PySpark",
+        "Spark SQL",
+        "Maven",
+        "Gradle"
+      ],
+      "databases": [
+        "Oracle",
+        "Azure SQL Database"
+      ],
+      "secondary_skills": [
+        "Windows (Operating System)",
+        "JIRA",
+        "Azure DevOps",
+        "MS Word",
+        "MS Excel",
+        "SQL Developer",
+        "Notebook",
+        "Azure Data Factory"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "AKHIL PIMPOLE",
+      "email": "pimpoleakhil4@gmail.com",
+      "phone": "7038279823",
+      "address": "",
+      "other_details": "Place: Pune"
+    },
+    "education": [
+      {
+        "degree_and_field": "B.E Mechanical Engineering",
+        "institution": "MSS’s CET Jalna",
+        "start_date": "2013",
+        "end_date": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Mindtree Ltd",
+        "job_location": "",
+        "start_date": "August 2021",
+        "end_date": "Ongoing"
+      }
+    ],
+    "total_years_experience": "4.0",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "SQL",
+        "PySpark"
+      ],
+      "bi_tools": [
+        "Power BI"
+      ],
+      "version_control_systems": [
+        "Git",
+        "Azure DevOps"
+      ],
+      "testing_and_automation": [],
+      "cloud": [
+        "Amazon S3",
+        "EMR",
+        "AWS Glue",
+        "Athena",
+        "Lambda",
+        "Secrets Manager",
+        "CloudWatch",
+        "Redshift"
+      ],
+      "frameworks_libraries": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Apache Spark",
+        "PySpark"
+      ],
+      "databases": [
+        "MySQL",
+        "SQL Server",
+        "Oracle",
+        "Redshift"
+      ],
+      "secondary_skills": [
+        "Agile",
+        "Azure DevOps",
+        "PyCharm",
+        "Notepad",
+        "Jupyter Notebook",
+        "Anaconda",
+        "Windows 10"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Anand Kumar Singh",
+      "email": "anandkumarsingh562@gmail.com",
+      "phone": "+91-7366012547",
+      "address": "",
+      "other_details": "Linkedin, Leetcode, Hackerrank"
+    },
+    "education": [
+      {
+        "degree_and_field": "BE/B.Tech/BS",
+        "institution": "Techno India, Salt Lake",
+        "start_date": "",
+        "end_date": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Infosys",
+        "job_location": "",
+        "start_date": "Mar 2021",
+        "end_date": "Present"
+      }
+    ],
+    "total_years_experience": "4.5",
+    "skills": {
+      "programming_languages": [
+        "Python"
+      ],
+      "bi_tools": [],
+      "version_control_systems": [],
+      "testing_and_automation": [],
+      "cloud": [
+        "Azure"
+      ],
+      "frameworks_libraries": [
+        "PySpark",
+        "Airflow"
+      ],
+      "databases": [
+        "Snowflake"
+      ],
+      "secondary_skills": []
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Arshid Ahmad Khan",
+      "email": "arshidkhan89780@gmail.com",
+      "phone": "9682539421",
+      "address": "Sopore, Jammu & Kashmir, India",
+      "other_details": "www.linkedin.com/in/arshid-ahmad-khan-39489a1a5"
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor of Engineering - Computer Engineering",
+        "institution": "East West Institute Of Technology",
+        "start_date": "August 2017",
+        "end_date": "August 2021"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Senior System Engineer",
+        "company_name": "Infosys",
+        "job_location": "India",
+        "start_date": "October 2023",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "System Engineer",
+        "company_name": "Infosys",
+        "job_location": "India",
+        "start_date": "September 2021",
+        "end_date": "October 2023"
+      }
+    ],
+    "total_years_experience": "2 years 5 months",
+    "skills": {
+      "programming_languages": [],
+      "bi_tools": [
+        "Apache Airflow"
+      ],
+      "version_control_systems": [],
+      "testing_and_automation": [],
+      "cloud": [],
+      "frameworks_libraries": [
+        "PySpark"
+      ],
+      "databases": [
+        "MySQL"
+      ],
+      "secondary_skills": []
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Arunkumar Balamurugan",
+      "email": "arunkumarbalamurugan2000@gmail.com",
+      "phone": "8870990898",
+      "address": "",
+      "other_details": "LinkedIn: linkedin.com/in/arun-b-021716169/"
+    },
+    "education": [
+      {
+        "degree_and_field": "B.Tech (CSE)",
+        "institution": "Bharathidasan University",
+        "start_date": "2017",
+        "end_date": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Gyansys",
+        "job_location": "",
+        "start_date": "2021",
+        "end_date": "Present"
+      }
+    ],
+    "total_years_experience": "4",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "SQL",
+        "ABAP"
+      ],
+      "bi_tools": [
+        "Power BI",
+        "Azure Data Factory"
+      ],
+      "version_control_systems": [],
+      "testing_and_automation": [],
+      "cloud": [
+        "Azure"
+      ],
+      "frameworks_libraries": [
+        "PySpark",
+        "Pandas",
+        "Databricks"
+      ],
+      "databases": [
+        "SQL"
+      ],
+      "secondary_skills": [
+        "ETL",
+        "SAP",
+        "CDC",
+        "Data Modeling",
+        "Streaming"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Chetan Raghutate",
+      "email": "raghatate.chetan123@gmail.com",
+      "phone": "+91 9665503710",
+      "address": "Mukai Nagar., Hingewadi Phase 1, Pune-411057",
+      "other_details": "Languages: English, Hindi, Marathi. Certifications: AWS Cloud Practitioner, AZURE AZ-400."
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor of Engineering (MECH)",
+        "institution": "G.H Raisoni College of Engineering, Nagpur, Maharastra",
+        "start_date": "Feb 2022",
+        "end_date": "Present"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Cognizant Technology Solutions",
+        "job_location": "",
+        "start_date": "Feb 2022",
+        "end_date": "Present"
+      }
+    ],
+    "total_years_experience": "3.5",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "PySpark"
+      ],
+      "bi_tools": [
+        "PowerBi",
+        "Advanced Excel"
+      ],
+      "version_control_systems": [
+        "Github"
+      ],
+      "testing_and_automation": [
+        "Jenkins"
+      ],
+      "cloud": [
+        "Azure DataBricks",
+        "Azure Data Factory",
+        "AWS"
+      ],
+      "frameworks_libraries": [
+        "Jupyter Notebook"
+      ],
+      "databases": [
+        "MySQL",
+        "SQL Server"
+      ],
+      "secondary_skills": [
+        "Data Ingestion",
+        "Data Cleaning",
+        "Data Analysis",
+        "Data Visualization"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "CHETHAN B.K",
+      "email": "Chethanbk035 @gmail.com",
+      "phone": "+91 - 948048 0236",
+      "address": "",
+      "other_details": ""
+    },
+    "education": [
+      {
+        "degree_and_field": "BACHELOR OF ENGINEERING(Mech)",
+        "institution": "Govt Enggineering College,Ramanagaram , VTU university.",
+        "start_date": "2015",
+        "end_date": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "",
+        "company_name": "ILI TECHNOLOGIES",
+        "job_location": "",
+        "start_date": "Sep 2023",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "",
+        "company_name": "NOVIGO SOLUTIONS",
+        "job_location": "",
+        "start_date": "Sep 2022",
+        "end_date": "Aug 2023"
+      },
+      {
+        "job_title": "",
+        "company_name": "INAT TECHNOLOGIES PVT LIMITED",
+        "job_location": "",
+        "start_date": "Aug 2020",
+        "end_date": "Aug 2022"
+      }
+    ],
+    "total_years_experience": "4.8",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "PySpark",
+        "SQL"
+      ],
+      "bi_tools": [],
+      "version_control_systems": [],
+      "testing_and_automation": [],
+      "cloud": [
+        "Microsoft Azure"
+      ],
+      "frameworks_libraries": [
+        "Azure Data Factory",
+        "Azure Data Bricks",
+        "Azure Data Lake",
+        "Azure Logic Apps"
+      ],
+      "databases": [],
+      "secondary_skills": []
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Preethi Dakkili",
+      "email": "preethidakkili99@gmail.com",
+      "phone": "+91 9573383600",
+      "address": "",
+      "other_details": "LinkedIn: linkedin.com/in/preethi-dakkili-2423a01b5"
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor of Engineering (B.E) in Electronics and Communication Engineering",
+        "institution": "Saveetha University, Chennai",
+        "start_date": "2017",
+        "end_date": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Cognizant Technology Solutions",
+        "job_location": "",
+        "start_date": "Oct 2021",
+        "end_date": "Present"
+      }
+    ],
+    "total_years_experience": "3.8",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "SQL",
+        "PySpark"
+      ],
+      "bi_tools": [],
+      "version_control_systems": [
+        "Git",
+        "GitHub"
+      ],
+      "testing_and_automation": [],
+      "cloud": [
+        "AWS"
+      ],
+      "frameworks_libraries": [
+        "Databricks",
+        "Apache Spark",
+        "Hadoop",
+        "Hive"
+      ],
+      "databases": [
+        "Redshift",
+        "Oracle"
+      ],
+      "secondary_skills": [
+        "Apache Airflow",
+        "AWS Glue",
+        "GitHub Actions",
+        "BigQuery"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Gali Purna Narasimha Reddy",
+      "email": "purnanarasimha.09@gmail.com",
+      "phone": "+91 9490499719",
+      "address": "Mangalaragiri, A.P.",
+      "other_details": ""
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor of Technology in Electrical and Electronics Engineering",
+        "institution": "R.V.R & J.C College of Engineering",
+        "start_date": "",
+        "end_date": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Engineer",
+        "company_name": "Tata Consultancy Services",
+        "job_location": "Bangalore",
+        "start_date": "May 2021",
+        "end_date": "present"
+      }
+    ],
+    "total_years_experience": "4",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "PySpark",
+        "SQL"
+      ],
+      "bi_tools": [
+        "DWH"
+      ],
+      "version_control_systems": [
+        "Git",
+        "GitHub"
+      ],
+      "testing_and_automation": [],
+      "cloud": [
+        "Azure"
+      ],
+      "frameworks_libraries": [
+        "Hadoop",
+        "Hive"
+      ],
+      "databases": [
+        "MySQL"
+      ],
+      "secondary_skills": [
+        "BMC-Control-m"
+      ]
+    }
+  },
+  {
+    "personal_information": {
+      "name": "Uday Kumar Gorige",
+      "email": "uday.vuddi@gmail.com",
+      "phone": "+91 8074220527",
+      "address": "Bengaluru, Karnataka, India",
+      "other_details": "LinkedIn: linkedin.com/in/uday -kumar -gorige"
+    },
+    "education": [
+      {
+        "degree_and_field": "Bachelor of Engineering Technology in Electronics & Communication",
+        "institution": "Vaagdevi Institute of Technology and Sciences",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Associate Consultant",
+        "company_name": "Capgemini",
+        "job_location": "India",
+        "start_date": "July 2024",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Senior Software Engineer",
+        "company_name": "Capgemini",
+        "job_location": "India",
+        "start_date": "July 2023",
+        "end_date": "June 2024"
+      },
+      {
+        "job_title": "Software Engineer",
+        "company_name": "Capgemini",
+        "job_location": "India",
+        "start_date": "Oct 2021",
+        "end_date": "June 2023"
+      }
+    ],
+    "total_years_experience": "3.75",
+    "skills": {
+      "programming_languages": [
+        "Python",
+        "Shell scripts"
+      ],
+      "bi_tools": [
+        "Power BI"
+      ],
+      "version_control_systems": [],
+      "testing_and_automation": [
+        "ETL testing",
+        "unit testing",
+        "automation"
+      ],
+      "cloud": [
+        "Microsoft Azure",
+        "Azure Data Factory",
+        "Azure Data Lake Storage",
+        "Azure Databricks",
+        "Snowflake"
+      ],
+      "frameworks_libraries": [],
+      "databases": [
+        "MySQL",
+        "Teradata",
+        "DB2",
+        "Snowflake",
+        "Azure Synapse",
+        "SQL"
+      ],
+      "secondary_skills": [
+        "IBM DataStage",
+        "Teradata SQL Assistant",
+        "ER Studio",
+        "Agile methodology",
+        "Project Management",
+        "Data Modeling",
+        "ETL Development",
+        "WinSCP",
+        "Putty",
+        "IP Switch",
+        "CA Workstation"
+      ]
+    }
+  }
+]

@@ -1,0 +1,5 @@
+PyPDF2
+ollama
+python-docx
+groq
+streamlit
