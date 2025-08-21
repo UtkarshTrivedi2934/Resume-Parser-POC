@@ -5,12 +5,12 @@ A Proof of Concept (POC) project for parsing resumes and converting extracted in
 ---
 
 ## 📌 Project Structure
-│── OUTPUTconversion.py # Script to convert JSON output to CSV
-│── main_with_json.py # Main parser script (produces JSON output)
-│── output.csv # Sample parsed CSV output
-│── output.json # Sample parsed JSON output
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+-  OUTPUTconversion.py # Script to convert JSON output to CSV
+- main_with_json.py # Main parser script (produces JSON output)
+- output.csv # Sample parsed CSV output
+- output.json # Sample parsed JSON output
+- requirements.txt # Python dependencies
+- README.md # Project documentation
 
 ---
 
