@@ -10,9 +10,9 @@ import shutil
 import time
 
 # -------------------------
-# API Key (only yours)
+# API Key (paste your groq api key here)
 # -------------------------
-API_KEY = "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"
+API_KEY = "your_api_key"
 
 # -------------------------
 # Setup
@@ -200,5 +200,6 @@ def run_pipeline(json_file, csv_file, folder_path, failed_dir, processed_dir):
 
     with open(json_file, "w", encoding="utf-8") as f:
         json.dump(all_results, f, indent=2, ensure_ascii=False)
+
 
     print(f"✅ All outputs saved in {json_file}")
