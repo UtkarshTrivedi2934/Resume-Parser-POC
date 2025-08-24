@@ -23,8 +23,8 @@ A Proof of Concept (POC) project for parsing resumes and converting extracted in
 
    pip install -r requirements.txt
 
-   os.mkdir('Manual-parsing')
-   os.mkdir('Auto-parsing')
+   mkdir Manual-parsing
+   mkdir Auto-parsing
 
 ## Usage
    ```bash
