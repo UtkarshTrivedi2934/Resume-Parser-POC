@@ -34,6 +34,9 @@ A Proof of Concept (POC) project for parsing resumes and converting extracted in
 - output.json → Parsed resume data in JSON format.
 - output.csv → Parsed resume data in CSV format.
 
+## How to run
+video tutorial: https://drive.google.com/file/d/1mlXEmpE38TrGx9-vXueqW1DaoaxYLk3-/view?usp=sharing
+
 ## Notes
 - Place all resumes in the input folder(Resumes) as required by the script before running.
 - Make sure to install all dependencies from requirements.txt.
